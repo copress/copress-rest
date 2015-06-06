@@ -1,0 +1,35 @@
+{
+  "name": "sycle-express-rest",
+  "version": "0.1.2",
+  "description": "Sycle express rest middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sycle/sycle-express-rest.git"
+  },
+  "author": "Tao Yuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sycle/sycle-express-rest/issues"
+  },
+  "homepage": "https://github.com/sycle/sycle-express-rest",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5",
+    "strong-remoting": "^2.18.1",
+    "supertest": "^1.0.1"
+  },
+  "dependencies": {
+    "async": "^1.2.0",
+    "body-parser": "^1.12.4",
+    "cancelify": "^0.1.5",
+    "cors": "^2.7.1",
+    "debug": "^2.2.0",
+    "express": "^4.12.4",
+    "lodash": "^3.9.3",
+    "sycle": "sycle/sycle"
+  }
+}
