@@ -1,6 +1,6 @@
 {
   "name": "sycle-express-rest",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Sycle express rest middleware",
   "main": "index.js",
   "scripts": {
