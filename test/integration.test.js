@@ -653,8 +653,8 @@ function givenSharedStaticMethod(sapp, fn, config) {
 
     return {
         name: 'testClass.testMethod',
-        url: '/test-class/testMethod',
-        classUrl: '/test-class'
+        url: '/testclasses/testMethod',
+        classUrl: '/testclasses'
     };
 }
 

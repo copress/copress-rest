@@ -1,4 +1,4 @@
-sycle-express-rest
+copress-rest
 =========
 
-Sycle express rest middleware
+Copress rest middleware
